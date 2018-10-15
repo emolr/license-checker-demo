@@ -16,5 +16,6 @@
     "query-string": "^6.2.0",
     "@framejs/core": "latest",
     "@framejs/renderer-preact": "latest",
+    "@framejs/renderer-react": "latest"
   }
 }
