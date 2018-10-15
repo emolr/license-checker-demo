@@ -15,6 +15,7 @@
     "pg": "^7.5.0",
     "query-string": "^6.2.0",
     "@framejs/core": "latest",
-    "require": "latest"
+    "require": "latest",
+    "preact": "latest"
   }
 }
